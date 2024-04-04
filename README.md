@@ -25,6 +25,8 @@ Folders include:
   - Visualizations folder
 04 Deliverables
   - Austin Texas STR Market analysis
+  - Austin Texas STR Market analysis v2
+  - Portfolio of Case Studies v3
 
 See embedded below:
 
