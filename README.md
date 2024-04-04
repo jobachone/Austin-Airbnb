@@ -8,10 +8,12 @@ Self-directed capstone study to conclude CareerFoundry Data Immersion course. Co
 Final report accessible via Tableau Public, but is included in this repository in PDF form (though non-interactive) in 04 Deliverables folder. See link to Tableau Public version here: https://public.tableau.com/shared/W4DBYMXSC
 
 Folders include: 
+
 01 Project Management
   - Project Brief
   - Data Source options from brainstorming/ searching period
   - Data Source summary - Austin Airbnb
+
 02 Scripts (Jupyter Lab notebooks)
   - 6.1 Austin Airbnb Dataset Exploration & Cleaning
   - 6.2 Correlation Matrix and EDA visualizations
@@ -20,9 +22,11 @@ Folders include:
   - 6.5 Number of Reviewsv vs Estimated Revenue
   - 6.6 Time Series Data Task
   - 6.7 Data Revising and Exploration for Dashboard Purposes
+
 03 Analysis
   - Data Source Summary
   - Visualizations folder
+
 04 Deliverables
   - Austin Texas STR Market analysis
   - Austin Texas STR Market analysis v2
